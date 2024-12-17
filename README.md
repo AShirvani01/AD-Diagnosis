@@ -1,4 +1,5 @@
 # Alzheimer's Disease Diagnosis Prediction
+This repository contains my final project report and code for STA314: Statistical Methods of Machine Learning I @ UofT.
 ## Problem Statement
 Alzheimer’s Disease (AD) is a neurodegenerative disease primarily plaguing the elderly and it has
 been a growing public health concern, with prevalence expected to increase 3-fold by 2050. The main
